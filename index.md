@@ -1,12 +1,11 @@
 ## Welcome to Billybobpickle's Page
 
-You can use the [editor on GitHub](https://github.com/billybobpickle/billybobpickle.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Pages
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Minecraft on the Tegra Jetson](https://billybobpickle.github.io/minecraft.md)
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
